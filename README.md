@@ -1,3 +1,5 @@
+**ATETION: PROJECT NOT SUPPORTING ANYMORE. WAS CLOSED WITH FOR LACK OF FUNDING.**
+
 This project scraping (with use mobile API) and consolidate information on realty sites. 
 
 ## Where search realty:
